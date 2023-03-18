@@ -42,7 +42,7 @@ df.info()
 df.isnull().sum()
 ```
 
-LOAN_DATA,CSV
+LOAN_DATA.CSV
 ```
 import pandas as pd
 import numpy as np
